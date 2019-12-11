@@ -1,6 +1,6 @@
 # CNN-visualization-utils
 
-Utility functions for visualizing properties of CNN model. For now, only hidden layer output visualization.
+Utility functions for visualizing properties of CNN model (made with python's keras module). For now, only hidden layer output visualization.
 
 Usage: cnn_outputs.visualizeOutputs(model,image)
 
