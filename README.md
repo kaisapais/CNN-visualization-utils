@@ -4,6 +4,8 @@ Utility functions for visualizing properties of CNN model (made with python's ke
 
 Usage: cnn_outputs.visualizeOutputs(model,image)
 
-image shape should match model input (todo: resize)
+image shape should match model input
 
 image.shape = (y,x,n) or (y,x)
+
+todos: resize image. plot with plt. add main file example.
